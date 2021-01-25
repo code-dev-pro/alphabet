@@ -1,0 +1,40 @@
+const LETTERS = ["A", "B", "C", "D", "E", "F","G", "H", "I", "J", "K", "L","M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W","X","Y","Z"];
+ const COLORS = [
+  "#A09EBB",
+  "#d7dae5",
+  "#b5d2cb",
+  "#bfffbc",
+  "#a6ffa1",
+  "#8eaf9d",
+  "#A09EBB",
+  "#d7dae5",
+  "#b5d2cb",
+  "#bfffbc",
+  "#a6ffa1",
+  "#8eaf9d",
+  "#A09EBB",
+  "#d7dae5",
+  "#b5d2cb",
+  "#bfffbc",
+  "#a6ffa1",
+  "#8eaf9d",
+  "#d7dae5",
+  "#b5d2cb",
+  "#bfffbc",
+  "#a6ffa1",
+  "#8eaf9d",
+  "#d7dae5",
+  "#b5d2cb",
+  "#bfffbc",
+  "#a6ffa1",
+  "#8eaf9d",
+  "#d7dae5",
+  "#b5d2cb",
+  "#bfffbc",
+  "#a6ffa1",
+  "#8eaf9d",
+];
+
+const DEG = 180 / Math.PI;
+
+export default {LETTERS,COLORS,DEG}
